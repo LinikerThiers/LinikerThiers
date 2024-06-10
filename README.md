@@ -1,6 +1,7 @@
 
 - 👋 Oie! sou Liniker Thiers, tenho 22 anos
 - 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Fullstack | 🚀 Foco em Backend Java
+- 👨‍💻 HTML | CSS | JavaScript | Java | Python | ReactJs | TailwindCss | MySql
 
 
 <a href="https://www.instagram.com/liniker_thiers" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
