@@ -1,6 +1,6 @@
 
 - 👋 Oie! sou Liniker Thiers, tenho 22 anos
-- 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Fullstack | 🚀 Foco em Backend Java
+- 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Fullstack | 🚀 Foco em Backend Java (Spring Boot) e Mobile (Flutter/Dart/Kotlin)
 - 👨‍💻 HTML | CSS | JavaScript | Java | Python | ReactJs | SpringBoot | TailwindCss | MySQL | Dart | Flutter
 
 
