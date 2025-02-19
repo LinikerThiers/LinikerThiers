@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/liniker-thiers-a698b01a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz4TYJ3VTS9CwhT3maVFeCQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 # Linguagens mais utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinikerThiers&layout=compact&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinikerThiers&layout=compact&show_icons=true&theme=default&langs_count=10) 
 
 
 ## Linguagens e Tecnologias
