@@ -1,7 +1,11 @@
 
-- 👋 Oie! sou Liniker Thiers, tenho 23 anos
-- 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Fullstack | 🚀 Foco em Backend Java (Spring Boot) e Mobile (Flutter/Dart/Kotlin)
-- 👨‍💻 HTML | CSS | JavaScript | Java | Python | ReactJs | SpringBoot | TailwindCss | MySQL | Dart | Flutter
+👋 Oi! Sou Liniker Thiers, tenho 23 anos | 🎓 Estudante de Engenharia de Software | 💻 Aspirante a Desenvolvedor Fullstack |🚀 Foco em Backend com Java (Spring Boot) e Mobile com Flutter/Dart/Kotlin
+- **Tecnologias e Ferramentas**:
+
+- 👨‍💻 Frontend: HTML | CSS | JavaScript | ReactJs | TailwindCss | ViteJs
+- 🛠️ Backend: Java | Spring Boot | 
+- 📱 Mobile: Dart | Flutter 
+- 🗃️ Banco de Dados: MySQL | PostgreSQL
 
 
 <a href="https://www.instagram.com/liniker_thiers" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
